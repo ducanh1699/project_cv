@@ -1,0 +1,5 @@
+mnist.svm
+prepare_mnist.py
+*.npy
+svm_cv2.py
+*.pyc
